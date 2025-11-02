@@ -106,7 +106,7 @@ cd PDFGuardian
 Buka Command Prompt / Terminal dan navigasikan ke folder project:
 
 ```bash
-cd "D:\DATA KULIAH\Semester 5\ToolsPDF"
+cd "D:\FileDirectory\PDFGuardian"
 ```
 
 Install library yang diperlukan:
