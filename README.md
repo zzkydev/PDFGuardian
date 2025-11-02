@@ -91,7 +91,6 @@ python3 --version
 #### Menggunakan Git (jika tersedia):
 
 ```bash
-cd "D:\DATA KULIAH\Semester 5"
 git clone https://github.com/zzkydev/PDFGuardian.git
 cd PDFGuardian
 ```
