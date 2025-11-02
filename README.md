@@ -92,7 +92,7 @@ python3 --version
 
 ```bash
 cd "D:\DATA KULIAH\Semester 5"
-git clone [URL_REPOSITORY]
+git clone https://github.com/zzkydev/PDFGuardian.git
 cd ToolsPDF
 ```
 
